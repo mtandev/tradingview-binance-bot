@@ -1,4 +1,4 @@
-WEBHOOK_PASSPHRASE = "yourpassphrase"
+WEBHOOK_PASSPHRASE = " "
 
-API_KEY = 'yourapikey'
-API_SECRET = 'yourapisecret'
+API_KEY = ' '
+API_SECRET = ' '
